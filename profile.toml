@@ -1,0 +1,23 @@
+[profile]
+username = "Zerd0n"
+display_name = "Zerd0n"
+headline = "developer · game experiments · web"
+intro = "I build experimental games, web projects, and practical tools — from PSP homebrew to interactive galleries."
+
+[links]
+github = "https://github.com/Zerd0n"
+portfolio = "https://zerd0n.github.io/My-site-gallery/"
+
+[skills]
+languages = ["c", "py", "js", "html", "css", "bash"]
+tools = ["git", "githubactions", "vscode", "docker"]
+
+[[projects]]
+name = "Backrooms PSP"
+url = "https://github.com/Zerd0n/backrooms-psp-gpt5.6sol"
+description = "Experimental Backrooms-style PSP homebrew with a software raycaster, written in C."
+
+[[projects]]
+name = "My Site Gallery"
+url = "https://github.com/Zerd0n/My-site-gallery"
+description = "A personal web gallery built with HTML, CSS, and JavaScript."

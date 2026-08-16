@@ -53,14 +53,8 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zerd0n&show_icons=true&hide_border=true&theme=tokyonight&locale=en" height="165" alt="Zerd0n GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zerd0n&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Zerd0n most used languages" />
-</p>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zerd0n&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Zerd0n GitHub trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Zerd0n&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru" height="165" alt="Zerd0n GitHub statistics" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zerd0n&layout=compact&hide_border=true&theme=bear" height="165" alt="Zerd0n most used languages" />
 </p>
 
 ###
